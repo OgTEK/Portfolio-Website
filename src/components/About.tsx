@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+        I'm a versatile and detail-oriented freelancer specializing in document design, formatting, web design, and product design. I help businesses and individuals create polished, professional content from seamless ebooks and branded documents to stunning websites.
         </p>
       </div>
     </div>
